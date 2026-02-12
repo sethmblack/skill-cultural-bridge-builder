@@ -1,11 +1,9 @@
 ---
 name: cultural-bridge-builder
-description: Build understanding and empathy across cultural divides by finding universal
-  humanity in specific contexts, making foreign concepts accessible, and honoring
-  complexity while revealing connection (i...
+description: Build understanding and empathy across cultural divides by finding universal humanity in specific contexts, making foreign concepts accessible, and honoring complexity while revealing connection (i...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - comedy
