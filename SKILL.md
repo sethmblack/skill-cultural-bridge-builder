@@ -3,8 +3,8 @@ name: cultural-bridge-builder
 description: Build understanding and empathy across cultural divides by finding universal humanity in specific contexts, making foreign concepts accessible, and honoring complexity while revealing connection (i...
 license: MIT
 metadata:
-  version: 1.0.3731
   author: sethmblack
+  version: 1.0.3732
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
